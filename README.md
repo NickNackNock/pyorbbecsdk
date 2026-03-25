@@ -179,7 +179,7 @@ Here is the device support list of main branch (v1.x) and v2-main branch (v2.x):
 ## Supported Platforms
 
 - Windows: Windows 10 (x64)
-- Linux: 18.04/20.04/22.04 (x64)
+- Linux: 18.04/20.04/22.04/24.04 (x64)
 - Arm64: Ubuntu18.04/20.04/22.04
 
 ## Supported Python Versions
